@@ -1,3 +1,8 @@
+/*         SHPE USC Website         */
+/*                                  */
+/* Created By: Pushpendra Shekhawat */
+/*      Copyright @ 05/20/2024      */
+
 const menu = document.querySelector('#mobile-menu')
 const menuLinks = document.querySelector('.navbar__menu')
 
